@@ -1,0 +1,12 @@
+[submodule "plugin/menu"]
+	path = plugin/menu
+	url = https://github.com/denehyg/reveal.js-menu.git
+[submodule "plugin/reveal-pdfexport"]
+	path = plugin/reveal-pdfexport
+	url = https://github.com/McShelby/reveal-pdfexport.git
+[submodule "plugin/tableofcontents"]
+	path = plugin/tableofcontents
+	url = https://github.com/naamor/reveal.js-tableofcontents.git
+[submodule "plugin/toolbar"]
+	path = plugin/toolbar
+	url = https://github.com/denehyg/reveal.js-toolbar.git
